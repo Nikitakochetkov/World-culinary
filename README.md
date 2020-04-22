@@ -22,9 +22,11 @@
 ### Similar applications 
 
 -bbcgoodfood
+
 -And so on
 
 ### Competitive advantage
 
 -The history of your recipes 
+
 -Quick recipe search
