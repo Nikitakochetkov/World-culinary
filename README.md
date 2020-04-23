@@ -27,6 +27,6 @@
 
 ### Competitive advantage
 
--The history of your recipes 
+-The history with your recipes 
 
 -Quick recipe search
