@@ -31,4 +31,4 @@
 
 -Quick recipe search
 
-##[WORLD CULINARY](https://coggle.it/diagram/XqByJ0nCLjt1HfjC/t/world-culinary)
+[WORLD CULINARY](https://coggle.it/diagram/XqByJ0nCLjt1HfjC/t/world-culinary)
