@@ -4,31 +4,30 @@
 
 ### What problem does this software solve, or what new brings for users?
 
--Helps people who can't cook but want to learn how to cook
+- Helps people who can't cook but want to learn how to cook
 
--Description of recipes and instructions on how to cook
+- Description of recipes and instructions on how to cook
 
--My page with information on favorites, recipes
+- My page with information on favorites, recipes
 
 
 ### Potential users
 
--Beginning cooks
+- Beginning cooks
 
--Professional chefs
+- Professional chefs
 
--People who want to learn how to cook
+- People who want to learn how to cook
 
 ### Similar applications 
 
--bbcgoodfood
+- bbcgoodfood
 
--And so on
+- And so on
 
 ### Competitive advantage
 
--The history with your recipes 
+- The history with your recipes 
 
--Quick recipe search
-
+##MindMap
 [WORLD CULINARY](https://coggle.it/diagram/XqByJ0nCLjt1HfjC/t/world-culinary)
