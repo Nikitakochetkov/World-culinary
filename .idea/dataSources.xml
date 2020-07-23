@@ -7,15 +7,5 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/chat?serverTimezone=Europe/Moscow</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="hibernate.cfg.xml/Hibernate" uuid="f1a7953c-176e-411c-b9bc-27604e3563d2">
-      <driver-ref>mysql</driver-ref>
-      <synchronize>true</synchronize>
-      <imported>true</imported>
-      <remarks>Hibernate
-
-D:/dev2/World-culinary/dal/src/main/resources/hibernate.cfg.xml</remarks>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/world_cylinary?serverTimezone=Europe/Moscow</jdbc-url>
-    </data-source>
   </component>
 </project>

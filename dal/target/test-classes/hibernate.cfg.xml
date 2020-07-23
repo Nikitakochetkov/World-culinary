@@ -1,0 +1,19 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.driver_class">org.h2.Driver</property>
+        <property name="connection.url">jdbc:h2:mem:hr</property>
+        <property name="connection.username">root</property>
+        <property name="connection.password">root</property>
+        <property name="dialect">org.hibernate.dialect.H2Dialect</property>
+        <property name="hbm2ddl.auto">create</property>
+
+        <mapping class="com.entity.Administrator"></mapping>
+        <mapping class="com.entity.User"></mapping>
+        <mapping class="com.entity.Kitchen"></mapping>
+        <mapping class="com.entity.Reciept"></mapping>
+
+    </session-factory>
+</hibernate-configuration>

@@ -8,8 +8,7 @@ import com.entity.Reciept;
 import com.entity.User;
 
 public class StarterApp {
-//todoo Config HikariCP and write tests id dirictory TEST
-
+//todoo Config HikariCP
     private static AdministratorDao administratorDao = new AdministratorDao();
     private static KitchenDao kitchenDao = new KitchenDao();
     private static UserDao userDao = new UserDao();
