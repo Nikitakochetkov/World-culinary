@@ -1,0 +1,10 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+"""For project World-Cylinary""",default,StarterApp,246,0,0,0,44,0,3,0,3,0
+"""For project World-Cylinary""",com.entity,Kitchen,83,25,16,0,0,9,13,5,5,5
+"""For project World-Cylinary""",com.entity,Reciept,90,25,16,0,3,9,14,5,6,5
+"""For project World-Cylinary""",com.entity,Administrator,125,33,24,0,3,11,19,6,7,6
+"""For project World-Cylinary""",com.entity,User,230,57,48,0,3,17,34,9,10,9
+"""For project World-Cylinary""",com.dao,UserDao,0,76,0,0,0,26,0,5,0,5
+"""For project World-Cylinary""",com.dao,KitchenDao,0,76,0,0,0,26,0,5,0,5
+"""For project World-Cylinary""",com.dao,AdministratorDao,0,76,0,0,0,26,0,5,0,5
+"""For project World-Cylinary""",com.dao,RecieptDao,0,76,0,0,0,26,0,5,0,5
