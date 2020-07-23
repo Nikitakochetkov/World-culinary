@@ -5,27 +5,27 @@ import lombok.Data;
 import javax.persistence.*;
 
 @Entity
-<span class="nc bnc" id="L8" title="All 48 branches missed.">@Data</span>
+<span class="pc bnc" id="L8" title="All 48 branches missed.">@Data</span>
 public class User {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-<span class="nc" id="L13">    private int id;</span>
+<span class="fc" id="L13">    private int id;</span>
 
     @Column(name = &quot;firstname&quot;)
-<span class="nc" id="L16">    String firstname;</span>
+<span class="fc" id="L16">    String firstname;</span>
 
     @Column(name = &quot;role&quot;)
-<span class="nc" id="L19">    String role;</span>
+<span class="fc" id="L19">    String role;</span>
 
     @Column(name = &quot;lastname&quot;)
-<span class="nc" id="L22">    String lastname;</span>
+<span class="fc" id="L22">    String lastname;</span>
 
     @Column(name = &quot;age&quot;)
-<span class="nc" id="L25">    Integer age;</span>
+<span class="fc" id="L25">    Integer age;</span>
 
     @Column(name = &quot;nickname&quot;)
-<span class="nc" id="L28">    String nickname;</span>
+<span class="fc" id="L28">    String nickname;</span>
 
 <span class="fc" id="L30">    public User() {</span>
 <span class="fc" id="L31">    }</span>
@@ -34,13 +34,13 @@ public class User {
 <span class="nc" id="L34">        this.id = id;</span>
 <span class="nc" id="L35">    }</span>
 
-<span class="nc" id="L37">    public User(Integer id, String firstname, String role, String lastname, Integer age, String nickname) {</span>
-<span class="nc" id="L38">        this.id = id;</span>
-<span class="nc" id="L39">        this.firstname = firstname;</span>
-<span class="nc" id="L40">        this.role = role;</span>
-<span class="nc" id="L41">        this.lastname = lastname;</span>
-<span class="nc" id="L42">        this.age = age;</span>
-<span class="nc" id="L43">        this.nickname = nickname;</span>
-<span class="nc" id="L44">    }</span>
+<span class="fc" id="L37">    public User(Integer id, String firstname, String role, String lastname, Integer age, String nickname) {</span>
+<span class="fc" id="L38">        this.id = id;</span>
+<span class="fc" id="L39">        this.firstname = firstname;</span>
+<span class="fc" id="L40">        this.role = role;</span>
+<span class="fc" id="L41">        this.lastname = lastname;</span>
+<span class="fc" id="L42">        this.age = age;</span>
+<span class="fc" id="L43">        this.nickname = nickname;</span>
+<span class="fc" id="L44">    }</span>
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.5.201910111838</span></div></body></html>

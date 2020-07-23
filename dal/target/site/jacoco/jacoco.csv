@@ -3,8 +3,8 @@ GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_
 """For project World-Cylinary""",com.entity,Kitchen,105,3,16,0,7,2,17,1,9,1
 """For project World-Cylinary""",com.entity,Reciept,112,3,16,0,10,2,18,1,10,1
 """For project World-Cylinary""",com.entity,Administrator,125,33,24,0,3,11,19,6,7,6
-"""For project World-Cylinary""",com.entity,User,284,3,48,0,18,2,42,1,18,1
-"""For project World-Cylinary""",com.dao,UserDao,76,0,0,0,26,0,5,0,5,0
+"""For project World-Cylinary""",com.entity,User,230,57,48,0,3,17,34,9,10,9
+"""For project World-Cylinary""",com.dao,UserDao,0,76,0,0,0,26,0,5,0,5
 """For project World-Cylinary""",com.dao,KitchenDao,76,0,0,0,26,0,5,0,5,0
 """For project World-Cylinary""",com.dao,AdministratorDao,0,76,0,0,0,26,0,5,0,5
 """For project World-Cylinary""",com.dao,RecieptDao,76,0,0,0,26,0,5,0,5,0

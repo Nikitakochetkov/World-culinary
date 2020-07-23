@@ -3,6 +3,7 @@ import com.entity.Administrator;
 import org.junit.jupiter.api.Test;
 
 class TestAdministratorDao {
+
     @Test
     public void testCreate() {
         AdministratorDao administratorDao = new AdministratorDao();
